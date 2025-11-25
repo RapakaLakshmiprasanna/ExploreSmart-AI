@@ -1,0 +1,11 @@
+{
+  "top_interests": [
+    "art",
+    "cafes",
+    "photography"
+  ],
+  "preferences_meta": {
+    "source": "session+memory",
+    "session_interests_count": 3
+  }
+}

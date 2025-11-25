@@ -1,0 +1,6 @@
+PyYAML
+requests
+openai
+requests
+python-dotenv
+google-search-results

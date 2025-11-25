@@ -1,0 +1,5 @@
+model: "gemini-flash"
+agent_name: "exploresmart_orchestrator"
+retry_limit: 2
+use_search_tool: true
+use_maps_tool: true
