@@ -2,7 +2,7 @@
 
 ---
 
-# 🌍 **ExploreSmart – AI Multi-Agent Travel Discovery System (Mock ADK Repo)**
+# 🌍 **ExploreSmart – AI Multi-Agent Travel Discovery System**
 
 ExploreSmart is a **multi-agent, intelligent travel discovery system** inspired by the **Google Kaggle AI Agents (Concierge Agents Track)**.
 This repository provides a **mock, near-functional starter framework** using Python, with clean extension points for ADK integration.
