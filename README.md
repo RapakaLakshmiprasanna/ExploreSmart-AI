@@ -9,18 +9,18 @@ This repository provides a **mock, near-functional starter framework** using Pyt
 
 It includes:
 
-* 🧠 **Orchestrator + Multiple Cooperative Agents**
-* 🔍 **Mock Google Search tool**
-* 🗺 **Mock Maps tool**
-* 📦 **File-based Memory Store (`.mock_memory/`)**
-* 🎨 **Streamlit UI for user-friendly travel planning**
-* 🧩 **ADK-ready architecture** for fast extension later
+*  **Orchestrator + Multiple Cooperative Agents**
+*  **Mock Google Search tool**
+*  **Mock Maps tool**
+*  **File-based Memory Store (`.mock_memory/`)**
+*  **Streamlit UI for user-friendly travel planning**
+*  **ADK-ready architecture** for fast extension later
 
 ---
 
-# 🚀 **Features**
+#  **Features**
 
-### 🧩 Multi-Agent Workflow
+###  Multi-Agent Workflow
 
 The Orchestrator coordinates:
 
@@ -29,17 +29,17 @@ The Orchestrator coordinates:
 3. **PlannerAgent** → constructs a smart itinerary
 4. **MemoryAgent** → stores user long-term preferences
 
-### 🔍 Mock Tools (Works Offline)
+###  Mock Tools (Works Offline)
 
 * Mock Google Search Tool
 * Mock Google Maps Tool
   They generate realistic travel results without API fees.
 
-### 🗂 Clean Project Structure
+###  Clean Project Structure
 
 Designed for scalability, readability, and ADK extension.
 
-### 🎨 Beautiful Streamlit UI
+###  Beautiful Streamlit UI
 
 Interactive and easy for users:
 
@@ -49,7 +49,7 @@ Interactive and easy for users:
 
 ---
 
-# 📁 **Folder Structure**
+#  **Folder Structure**
 
 ```
 ExploreSmart-AI/
@@ -77,7 +77,7 @@ ExploreSmart-AI/
 
 ---
 
-# 🛠 **How to Run the Project**
+#  **How to Run the Project**
 
 ## 1️⃣ Clone the Repo
 
@@ -130,7 +130,7 @@ GOOGLE_CSE_ID=your_custom_search_engine_id
 
 ---
 
-# 🖥 **Run Backend from Terminal**
+#  **Run Backend from Terminal**
 
 ```bash
 python main.py
@@ -146,7 +146,7 @@ INFO PlannerAgent: itinerary length=10
 
 ---
 
-# 🎨 **Run the Streamlit UI (Recommended)**
+#  **Run the Streamlit UI (Recommended)**
 
 ### From project root:
 
@@ -162,7 +162,7 @@ http://localhost:8501
 
 ---
 
-# 🧠 **How the System Works**
+#  **How the System Works**
 
 ### 1. User Input
 
@@ -194,7 +194,7 @@ Stores the user’s long-term preferences.
 
 ---
 
-# 🔮 **Future Enhancements**
+#  **Future Enhancements**
 
 These are ideal next steps for the capstone:
 
@@ -208,7 +208,7 @@ These are ideal next steps for the capstone:
 
 ---
 
-# 📌 **Why This Repo Is Useful for Kaggle Capstone**
+#  **Why This Repo Is Useful for Kaggle Capstone**
 
 * Demonstrates full multi-agent architecture
 * Works offline (safe for evaluation)
@@ -218,7 +218,7 @@ These are ideal next steps for the capstone:
 
 ---
 
-# 🧑‍💻 **Author**
+#  **Author**
 
 **Rapaka Lakshmi Prasanna**
 AI & ML Student | Multi-Agent Systems | Web Developer
@@ -226,7 +226,7 @@ Balaji Institute of Technology & Science
 
 ---
 
-# ❤️ **Contributions**
+#  **Contributions**
 
 Feel free to open issues or PRs to expand ExploreSmart into a full ADK-integrated travel planner.
 
